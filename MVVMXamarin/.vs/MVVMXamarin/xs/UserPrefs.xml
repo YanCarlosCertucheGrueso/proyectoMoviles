@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{62E5E353-16CB-4DFB-9325-6403E3CD8069}|Default">
+  <MonoDevelop.Ide.ItemProperties.MVVMXamarin.Android AndroidDesignerPreferredTheme="Theme.DeviceDefault.Light.NoActionBar.Fullscreen" PreferredExecutionTarget="Android.Nexus_5X_API_27" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MVVMXamarin/MVVMXamarin/Views/Course.xaml">
+    <Files>
+      <File FileName="MVVMXamarin/MVVMXamarin/Views/Library.xaml" />
+      <File FileName="MVVMXamarin/MVVMXamarin/Views/Course.xaml" />
+      <File FileName="MVVMXamarin/MVVMXamarin/Views/Course.xaml.cs" Line="21" Column="1" />
+      <File FileName="MVVMXamarin/MVVMXamarin/Views/Options.xaml.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MVVMXamarin" expanded="True">
+            <Node name="MVVMXamarin" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="Course.xaml" expanded="True" selected="True" />
+                <Node name="Options.xaml" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="MVVMXamarin.Android" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="drawable" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.MVVMXamarin.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.6EF592FF-AFB8-4DA3-93A5-F04D6D2889A7" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
