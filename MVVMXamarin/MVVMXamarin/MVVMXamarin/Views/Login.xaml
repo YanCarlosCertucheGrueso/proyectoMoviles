@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             x:Class="MVVMXamarin.Views.Login" BackgroundImage="javeriana1.jpg">
+        <StackLayout Orientation="Vertical" Padding="30">
+            <Image Source="logojave2.png" WidthRequest="200" HeightRequest="200"/>
+            <StackLayout Padding="10">
+                <Entry Placeholder="Nombre de Usuario" 
+                       PlaceholderColor="White"
+                       HorizontalTextAlignment="Center"/>
+                <Entry Placeholder="Contraseña" 
+                       PlaceholderColor="White"
+                       IsPassword="true"
+                       HorizontalTextAlignment="Center"/>
+            </StackLayout>
+            <StackLayout Padding="10">
+                <Button Text="Ingresar"
+                        VerticalOptions="Center"
+                        HorizontalOptions="Center"
+                        TextColor="White"
+                        BackgroundColor="#00467C"
+                        BorderRadius="30"
+                        WidthRequest="200"
+                        Clicked="Handle_Clicked"/>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal" Padding="20" HorizontalOptions="Center" HeightRequest="45">
+                <Button Image ="fblogo1.png"
+                        BackgroundColor="#fff100"
+                        TextColor="White"
+                        BorderRadius="20"/>
+                <Button Image="twlogo1.png"
+                        BackgroundColor="#fff100"
+                        TextColor="White"
+                        BorderRadius="20"/>
+            </StackLayout>        
+        </StackLayout>
+</ContentPage>
